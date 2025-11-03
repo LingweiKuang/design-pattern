@@ -1,0 +1,9 @@
+/Users/lingwei/project/design-pattern/src/main/java/com/klw/creational/factory/FactoryMethod.java
+/Users/lingwei/project/design-pattern/src/main/java/com/klw/creational/singleton/Singleton.java
+/Users/lingwei/project/design-pattern/src/main/java/com/klw/structural/adapter/OrderService.java
+/Users/lingwei/project/design-pattern/src/main/java/com/klw/structural/adapter/PayFast.java
+/Users/lingwei/project/design-pattern/src/main/java/com/klw/structural/adapter/PayFastAdapter.java
+/Users/lingwei/project/design-pattern/src/main/java/com/klw/structural/adapter/PaymentException.java
+/Users/lingwei/project/design-pattern/src/main/java/com/klw/structural/adapter/PaymentGateway.java
+/Users/lingwei/project/design-pattern/src/main/java/com/klw/structural/adapter/QuickPay.java
+/Users/lingwei/project/design-pattern/src/main/java/com/klw/structural/adapter/QuickPayAdapter.java
