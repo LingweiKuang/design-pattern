@@ -1,9 +1,0 @@
-com/klw/structural/adapter/QuickPay.class
-com/klw/creational/singleton/Singleton.class
-com/klw/creational/factory/FactoryMethod.class
-com/klw/structural/adapter/PayFastAdapter.class
-com/klw/structural/adapter/PaymentGateway.class
-com/klw/structural/adapter/QuickPayAdapter.class
-com/klw/structural/adapter/PaymentException.class
-com/klw/structural/adapter/PayFast.class
-com/klw/structural/adapter/OrderService.class
